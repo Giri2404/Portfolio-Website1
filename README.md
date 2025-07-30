@@ -23,6 +23,6 @@ This is a basic portfolio website built using **HTML** and **CSS**. It includes 
 
 ## Live Demo
 
-You can view the live version [[Link](https://giri2404.github.io/Portfolio-Website1/)](#) *(Replace with your GitHub Pages or live link if available)*.
+You can view the live version [[Link](https://giri2404.github.io/Portfolio-Website1/)].
 
 Thank you for visiting for my portfolio website!
